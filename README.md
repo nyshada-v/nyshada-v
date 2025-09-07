@@ -9,14 +9,13 @@
 - 🌱 Currently learning: **AI, Cloud Computing, Quantum Computing**  
 - 🔭 Projects I enjoy: **Web development Projects**  
 - 💡 Goal: To contribute to **secure and scalable applications**  
-- ⚡ Fun fact: I love solving puzzles & experimenting with new tools  
+- ⚡ Hobbies: Dancing, Badminton, Instrumental Music
 
 ---
 
 ### 🛠️ Tech Stack  
 **Languages**: Java, JavaScript, Python, C.
 **Frontend**: React, HTML, CSS. 
-**Backend**: Node.js, Express  
 **Database**: MySQL, MongoDB
 **Tools**: Git, Rest Client, Postman
 
