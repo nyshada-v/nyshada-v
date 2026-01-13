@@ -7,7 +7,7 @@
 ### 👩‍💻 About Me  
 - 🎓 CSE student passionate about **building impactful tech solutions**  
 - 🌱 Currently learning: **AI, Cloud Computing, Quantum Computing**  
-- 🔭 Projects I enjoy: **Web development Projects**  
+- 🔭 Projects I enjoy: **Web development, Agentic AI Projects**  
 - 💡 Goal: To contribute to **secure and scalable applications**  
 - ⚡ Hobbies: Dancing, Badminton, Instrumental Music
 
