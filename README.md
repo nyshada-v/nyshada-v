@@ -25,7 +25,7 @@
 🔹 [**Multi-Threaded Chat App**](#) – Real-time chat application with concurrency in Java  
 🔹 [**Student–Mentor Dashboard**](#) – Role-based dashboard system (Admin, Mentor, Student)  
 🔹 [**Portfolio Website**](#) – Personal site built with React, CSS hosted on GitHub Pages  
-🔹 [**Secure Auth System**](#) – Full-stack login system with JWT authentication  
+🔹 [**Video Content Analyzer**](https://github.com/nyshada-v/video-content-analyzer-agentic-ai) – Using python frameworks like LangChain, moviepy and Assembly AI, Gemini API.
 
 👉 *Check my pinned repos for more!*  
 
